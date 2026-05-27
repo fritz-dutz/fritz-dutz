@@ -20,9 +20,8 @@ I write occasionally.
 **projects**
 
 | | |
-|---|---|
 | [fritzdutz.com](https://github.com/fritz-dutz/fritzdutz) | Personal website — bio, experience, writing & media |
-| [eidos](https://github.com/fritz-dutz/eidos) | — |
+| [eidos](https://github.com/fritz-dutz/eidos) | If Ivan Zhao built a browser |
 | [Clio](https://github.com/inin-zou/Clio) | Voice AI agent handling inbound insurance claim calls |
 | [Wiggle](https://github.com/Konsequanzheng/wiggle) | AI-powered 3D interactive animation design platform |
 | [Koti](https://www.canva.com/design/DAGWp7E2Luc/sn6Zv7iWeVuw38hVmzlKYw/view) | PM platform for the construction industry |
