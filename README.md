@@ -1,4 +1,4 @@
-### hi, i'm fritz 👋
+### hey, i'm fritz 👋
 
 Visiting Investor @ [NAP](https://nap.vc) — a Berlin-based pre-seed & seed VC investing €1–3m in enterprise tech across Europe.
 
