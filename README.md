@@ -20,7 +20,7 @@ I write occasionally.
 
 **projects**
 
-- [fritzdutz.com](https://github.com/fritz-dutz/fritzdutz) — Personal website — bio, experience, writing & media
+- [fritzdutz.com](https://github.com/fritz-dutz/fritzdutz) — Personal website: bio, experience, writing & media
 - [eidos](https://github.com/fritz-dutz/eidos) — If Ivan Zhao built a browser
 - [Clio](https://github.com/inin-zou/Clio) — Voice AI agent handling inbound insurance claim calls
 - [Wiggle](https://github.com/Konsequanzheng/wiggle) — AI-powered 3D interactive animation design platform
