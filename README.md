@@ -14,7 +14,7 @@ I write occasionally.
 
 [![X](https://img.shields.io/badge/@fritz__dutz-000000?style=flat&logo=x&logoColor=white)](https://x.com/fritz_dutz)
 [![Email](https://img.shields.io/badge/dutzfrederick@gmail.com-000000?style=flat&logo=gmail&logoColor=white)](mailto:dutzfrederick@gmail.com)
-[![Substack](https://img.shields.io/badge/substack-000000?style=flat&logo=substack&logoColor=white)](https://fritzd.substack.com/)
+[![Substack](https://img.shields.io/badge/fritzd.substack.com-000000?style=flat&logo=substack&logoColor=white)](https://fritzd.substack.com/)
 
 <br />
 
