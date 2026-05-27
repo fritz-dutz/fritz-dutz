@@ -1,12 +1,12 @@
-### hey, i'm fritz 👋
+### hi, i'm fritz 👋
 
-Visiting Investor @ [NAP](https://nap.vc) — a Berlin-based pre-seed & seed VC investing €1–4m in enterprise tech across Europe.
+Visiting Investor @ [NAP](https://nap.vc) — a Berlin-based pre-seed & seed VC investing €1–3m in enterprise tech across Europe.
 
 Previously on the operator side at Enpal, Colonia & Investa. Studied at EBS Universität and Tsinghua University in Beijing.
 
-Roots in Germany & Thailand, raised in Ho Chi Minh City.
+Roots in Germany & Thailand, raised in Ho Chi Minh City, currently living in Berlin.
 
-I write occasionally.
+I write occasionally. I hack occasionally.
 
 <br />
 
