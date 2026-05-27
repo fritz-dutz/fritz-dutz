@@ -10,11 +10,11 @@ I write occasionally.
 
 <br />
 
-**find me**
+**im here**
 
-[![X](https://img.shields.io/badge/@fritz__dutz-000000?style=flat&logo=x&logoColor=white)](https://x.com/fritz_dutz)
-[![Email](https://img.shields.io/badge/dutzfrederick@gmail.com-000000?style=flat&logo=gmail&logoColor=white)](mailto:dutzfrederick@gmail.com)
-[![Substack](https://img.shields.io/badge/fritzd.substack.com-000000?style=flat&logo=substack&logoColor=white)](https://fritzd.substack.com/)
+[![x](https://img.shields.io/badge/@fritz__dutz-000000?style=flat&logo=x&logoColor=white)](https://x.com/fritz_dutz)
+[![email](https://img.shields.io/badge/dutzfrederick@gmail.com-000000?style=flat&logo=gmail&logoColor=white)](mailto:dutzfrederick@gmail.com)
+[![substack](https://img.shields.io/badge/fritzd.substack.com-000000?style=flat&logo=substack&logoColor=white)](https://fritzd.substack.com/)
 
 <br />
 
@@ -22,9 +22,9 @@ I write occasionally.
 
 - [fritzdutz.com](https://github.com/fritz-dutz/fritzdutz) — Personal website: bio, experience, writing & media
 - [eidos](https://github.com/fritz-dutz/eidos) — If Ivan Zhao built a browser
-- [Clio](https://github.com/inin-zou/Clio) — Voice AI agent handling inbound insurance claim calls
-- [Wiggle](https://github.com/Konsequanzheng/wiggle) — AI-powered 3D interactive animation design platform
-- [Koti](https://www.canva.com/design/DAGWp7E2Luc/sn6Zv7iWeVuw38hVmzlKYw/view) — PM platform for the construction industry
+- [clio](https://github.com/inin-zou/Clio) — Voice AI agent handling inbound insurance claim calls
+- [wiggle](https://github.com/Konsequanzheng/wiggle) — AI-powered 3D interactive animation design platform
+- [koti](https://www.canva.com/design/DAGWp7E2Luc/sn6Zv7iWeVuw38hVmzlKYw/view) — PM platform for the construction industry
 
 <br />
 
