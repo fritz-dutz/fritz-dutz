@@ -25,9 +25,3 @@ I write occasionally. I hack occasionally.
 - [clio](https://github.com/inin-zou/Clio) — Voice AI agent handling inbound insurance claim calls
 - [wiggle](https://github.com/Konsequanzheng/wiggle) — AI-powered 3D interactive animation design platform
 - [koti](https://www.canva.com/design/DAGWp7E2Luc/sn6Zv7iWeVuw38hVmzlKYw/view) — PM platform for the construction industry
-
-<br />
-
-**github stats**
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=fritz-dutz&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
