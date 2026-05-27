@@ -2,17 +2,18 @@
 
 Visiting Investor @ [NAP](https://nap.vc) — a Berlin-based pre-seed & seed VC investing €1–4m in enterprise tech across Europe.
 
-Previously on the operator side at Enpal, Colonia & Investa. Studied at EBS Universität and Tsinghua University in Beijing. Roots in Germany & Thailand, raised in Ho Chi Minh City.
+Previously on the operator side at Enpal, Colonia & Investa. Studied at EBS Universität and Tsinghua University in Beijing.
 
-I write occasionally and send out bi-weekly emails with curated deals & reads.
+Roots in Germany & Thailand, raised in Ho Chi Minh City.
+
+I write occasionally.
 
 <br />
 
 **find me**
 
-[![Website](https://img.shields.io/badge/fritzdutz.com-000000?style=flat&logo=safari&logoColor=white)](https://fritzdutz.com)
 [![X](https://img.shields.io/badge/@fritz__dutz-000000?style=flat&logo=x&logoColor=white)](https://x.com/fritz_dutz)
-[![Newsletter](https://img.shields.io/badge/newsletter-000000?style=flat&logo=notion&logoColor=white)](https://fritzd.notion.site/32aed47507e18010b2b5f19774b713c2?pvs=105)
+[![Email](https://img.shields.io/badge/dutzfrederick@gmail.com-000000?style=flat&logo=gmail&logoColor=white)](mailto:dutzfrederick@gmail.com)
 
 <br />
 
@@ -20,6 +21,8 @@ I write occasionally and send out bi-weekly emails with curated deals & reads.
 
 | | |
 |---|---|
+| [fritzdutz.com](https://github.com/fritz-dutz/fritzdutz) | Personal website — bio, experience, writing & media |
+| [eidos](https://github.com/fritz-dutz/eidos) | — |
 | [Clio](https://github.com/inin-zou/Clio) | Voice AI agent handling inbound insurance claim calls |
 | [Wiggle](https://github.com/Konsequanzheng/wiggle) | AI-powered 3D interactive animation design platform |
 | [Koti](https://www.canva.com/design/DAGWp7E2Luc/sn6Zv7iWeVuw38hVmzlKYw/view) | PM platform for the construction industry |
@@ -28,4 +31,4 @@ I write occasionally and send out bi-weekly emails with curated deals & reads.
 
 **github stats**
 
-![Fritz's GitHub stats](https://github-readme-stats.vercel.app/api?username=fritz-dutz&show_icons=true&theme=default&hide_border=true&count_private=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=fritz-dutz&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
