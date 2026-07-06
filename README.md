@@ -12,7 +12,7 @@ i write occasionally. i hack occasionally.
 
 **im here**
 
-[x](https://x.com/fritz_dutz) / [email](mailto:dutzfrederick@gmail.com) / [substack](https://fritzd.substack.com/)
+[x](https://x.com/fritz_dutz) / [email](mailto:dutzfrederick@gmail.com) / [substack](https://fritzd.substack.com/) / [ig](https://www.instagram.com/pantrybyfritz/)
 
 <br />
 
