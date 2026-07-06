@@ -1,6 +1,6 @@
 ### hey, i'm fritz 👋
 
-Investor @ [Target Global]((https://www.targetglobal.vc/)) - a Gobal seed & series A VC investing into category defining tech companies.
+Investor @ [Target Global](https://www.targetglobal.vc/) - a Global seed & series A VC investing into category defining tech companies.
 
 Before starting my career in Venture with NAP, I spent time on the operator side at Enpal, Colonia & Investa. Studied at EBS Universität and Tsinghua University in Beijing.
 
