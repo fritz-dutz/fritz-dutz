@@ -1,10 +1,10 @@
 ### hey, i'm fritz 👋
 
-Visiting Investor @ [NAP](https://nap.vc) - a Berlin-based pre-seed & seed VC investing €1–3m in enterprise tech across Europe.
+Investor @ [Target Global]((https://www.targetglobal.vc/)) - a Gobal seed & series A VC investing into category defining tech companies.
 
-Previously on the operator side at Enpal, Colonia & Investa. Studied at EBS Universität and Tsinghua University in Beijing.
+Before starting my career in Venture with NAP, I spent time on the operator side at Enpal, Colonia & Investa. Studied at EBS Universität and Tsinghua University in Beijing.
 
-Roots in Germany & Thailand, raised in Ho Chi Minh City, currently living in Berlin.
+Roots in Germany & Thailand, raised in Ho Chi Minh City, recently moved from Berlin to London.
 
 I write occasionally. I hack occasionally.
 
