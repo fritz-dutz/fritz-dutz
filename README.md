@@ -12,9 +12,7 @@ i write occasionally. i hack occasionally.
 
 **im here**
 
-[![x](https://img.shields.io/badge/@fritz__dutz-000000?style=flat&logo=x&logoColor=white)](https://x.com/fritz_dutz)
-[![email](https://img.shields.io/badge/dutzfrederick@gmail.com-000000?style=flat&logo=gmail&logoColor=white)](mailto:dutzfrederick@gmail.com)
-[![substack](https://img.shields.io/badge/fritzd.substack.com-000000?style=flat&logo=substack&logoColor=white)](https://fritzd.substack.com/)
+[x](https://x.com/fritz_dutz) / [email](mailto:dutzfrederick@gmail.com) / [substack](https://fritzd.substack.com/)
 
 <br />
 
