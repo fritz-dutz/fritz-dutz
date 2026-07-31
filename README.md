@@ -18,7 +18,7 @@ i write occasionally. i hack occasionally. i also host regular events at [home](
 
 **projects**
 
-- [fritzdutz.com](https://github.com/fritz-dutz/fritzdutz) — personal website
+- [fritzdutz](https://github.com/fritz-dutz/fritzdutz) — personal website
 - [eidos](https://github.com/fritz-dutz/eidos) — if ivan zhao built a browser
 - [clio](https://github.com/inin-zou/Clio) — voice ai agent handling inbound insurance claim calls
 - [wiggle](https://github.com/Konsequanzheng/wiggle) — ai-powered 3d interactive animation design platform
