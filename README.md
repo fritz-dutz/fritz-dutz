@@ -1,18 +1,24 @@
 ### hey, i'm fritz 👋
 
-investor @ [target global](https://www.targetglobal.vc/) - a global seed & series a vc investing into category defining tech companies.
+investor @ [target global](https://www.targetglobal.vc/) — a global seed & series a vc investing into category defining tech companies.
 
-before starting my career in venture with nap, i spent time on the operator side at enpal, colonia & investa. studied at ebs universität and tsinghua university in beijing.
+before starting my career in venture with nap, i spent time on the operator side at enpal, colonia & investa. studied at ebs universität and tsinghua in beijing.
 
 roots in germany & thailand, raised in ho chi minh city, recently moved from berlin to london.
 
-i write occasionally. i hack occasionally.
+i write occasionally. i hack occasionally. i also host regular events at [home](https://venture-house.vercel.app/) with sam & elian.
 
 <br />
 
-**im here**
+**find me**
 
-[x](https://x.com/fritz_dutz) / [email](mailto:dutzfrederick@gmail.com) / [substack](https://fritzd.substack.com/)
+[x](https://x.com/fritz_dutz) / [li](https://www.linkedin.com/in/fritz-dutz/) / [email](mailto:dutzfrederick@gmail.com) / [substack](https://fritzd.substack.com/)
+
+<br />
+
+**the venture house**
+
+a vc hacker house in shoreditch, london → [venture-house.vercel.app](https://venture-house.vercel.app/)
 
 <br />
 
