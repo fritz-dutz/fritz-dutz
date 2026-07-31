@@ -16,12 +16,6 @@ i write occasionally. i hack occasionally. i also host regular events at [home](
 
 <br />
 
-**the venture house**
-
-a vc hacker house in shoreditch, london → [venture-house.vercel.app](https://venture-house.vercel.app/)
-
-<br />
-
 **projects**
 
 - [fritzdutz.com](https://github.com/fritz-dutz/fritzdutz) — personal website
