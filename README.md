@@ -6,13 +6,13 @@ before starting my career in venture with nap, i spent time on the operator side
 
 roots in germany & thailand, raised in ho chi minh city, recently moved from berlin to london.
 
-i write occasionally. i hack occasionally. i also host regular events at [home](https://venture-house.vercel.app/) with sam & elian.
+i [write](https://fritzd.substack.com/) occasionally. i hack occasionally. i also host regular events at [home](https://venture-house.vercel.app/) with sam & elian.
 
 <br />
 
-**find me**
+**@**
 
-[x](https://x.com/fritz_dutz) / [li](https://www.linkedin.com/in/fritz-dutz/) / [email](mailto:dutzfrederick@gmail.com) / [substack](https://fritzd.substack.com/)
+[x](https://x.com/fritz_dutz) / [li](https://www.linkedin.com/in/fritz-dutz/) / [email](mailto:dutzfrederick@gmail.com)
 
 <br />
 
