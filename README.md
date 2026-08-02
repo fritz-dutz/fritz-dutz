@@ -1,4 +1,4 @@
-### hey, i'm fritz 👋
+**hey, i'm fritz 👋**
 
 investor @ [target global](https://www.targetglobal.vc/) - a global seed & series a vc investing into category defining tech companies.
 
